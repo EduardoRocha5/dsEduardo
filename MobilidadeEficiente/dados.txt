@@ -1,0 +1,16 @@
+=== LINHAS ===
+Código: 1
+Nome:   zualk
+Paradas: 12, 13
+
+=== ÔNIBUS ===
+Placa:             0147
+Capacidade Máxima: 20
+Código Municipal: 003
+
+=== VIAGENS ===
+Data:  27/03/25
+Hora:  23:00
+Linha: [Código: 1, Nome: zualk]
+Ônibus: [Placa: 0147, Capacidade: 20, Cod.Municipal: 003]
+
